@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:ElecLib:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ElecLib/build/.transforms/6034a632bc7d4cfa231aa7c11236ac1e/jetified-DAMEN_PAXA920_V2.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/ElecLib/build/.transforms/6034a632bc7d4cfa231aa7c11236ac1e/jetified-DAMEN_PAXA920_V2.1.2/res" />
+      <root url="file://$PROJECT_DIR$/ElecLib/build/.transforms/6034a632bc7d4cfa231aa7c11236ac1e/jetified-DAMEN_PAXA920_V2.1.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/ElecLib/build/.transforms/6034a632bc7d4cfa231aa7c11236ac1e/jetified-DAMEN_PAXA920_V2.1.2/jars/libs/classes-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

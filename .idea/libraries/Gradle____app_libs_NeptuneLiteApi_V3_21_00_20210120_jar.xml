@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/NeptuneLiteApi_V3.21.00_20210120.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/NeptuneLiteApi_V3.21.00_20210120.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

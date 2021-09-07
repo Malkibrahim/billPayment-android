@@ -1,0 +1,18 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\malak.ibrahim\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Smart Projects\\Mobile\\damen--payment--apn--test\\damen--payment\\android\\app\\CMakeLists.txt",
+    "C:\\Users\\malak.ibrahim\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\malak.ibrahim\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Smart Projects\\Mobile\\damen--payment--apn--test\\damen--payment\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\malak.ibrahim\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\Smart Projects\\Mobile\\damen--payment--apn--test\\damen--payment\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {},
+  "toolchains": {
+    "0": {}
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

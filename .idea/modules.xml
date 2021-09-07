@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/damenpayment.iml" filepath="$PROJECT_DIR$/.idea/modules/damenpayment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DAMEN_PAXA920_V2.1.2/damenpayment.DAMEN_PAXA920_V2.1.2.iml" filepath="$PROJECT_DIR$/.idea/modules/DAMEN_PAXA920_V2.1.2/damenpayment.DAMEN_PAXA920_V2.1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ElecLib/damenpayment.ElecLib.iml" filepath="$PROJECT_DIR$/.idea/modules/ElecLib/damenpayment.ElecLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ElecLibVerifone/damenpayment.ElecLibVerifone.iml" filepath="$PROJECT_DIR$/.idea/modules/ElecLibVerifone/damenpayment.ElecLibVerifone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ElecVerifone/damenpayment.ElecVerifone.iml" filepath="$PROJECT_DIR$/.idea/modules/ElecVerifone/damenpayment.ElecVerifone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WaterLib/damenpayment.WaterLib.iml" filepath="$PROJECT_DIR$/.idea/modules/WaterLib/damenpayment.WaterLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/damenpayment.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/damenpayment.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eppclib-CHY_khalesPAXA920_release/damenpayment.eppclib-CHY_khalesPAXA920_release.iml" filepath="$PROJECT_DIR$/.idea/modules/eppclib-CHY_khalesPAXA920_release/damenpayment.eppclib-CHY_khalesPAXA920_release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1201454093/damenpayment.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1201454093/damenpayment.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2107453391/damenpayment.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-2107453391/damenpayment.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/83556995/damenpayment.react-native-community_toolbar-android.iml" filepath="$PROJECT_DIR$/.idea/modules/83556995/damenpayment.react-native-community_toolbar-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/779304241/damenpayment.react-native-date-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/779304241/damenpayment.react-native-date-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1252258234/damenpayment.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-1252258234/damenpayment.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-699309207/damenpayment.react-native-fs.iml" filepath="$PROJECT_DIR$/.idea/modules/-699309207/damenpayment.react-native-fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1263979882/damenpayment.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1263979882/damenpayment.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1917964198/damenpayment.react-native-html-to-pdf.iml" filepath="$PROJECT_DIR$/.idea/modules/1917964198/damenpayment.react-native-html-to-pdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/357144178/damenpayment.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/357144178/damenpayment.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-139709613/damenpayment.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-139709613/damenpayment.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1862078251/damenpayment.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1862078251/damenpayment.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1984539988/damenpayment.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1984539988/damenpayment.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1268856821/damenpayment.rn-fetch-blob.iml" filepath="$PROJECT_DIR$/.idea/modules/1268856821/damenpayment.rn-fetch-blob.iml" />
+    </modules>
+  </component>
+</project>

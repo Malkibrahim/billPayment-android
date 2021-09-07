@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+    <apn carrier="damenpos"
+        apn="damenpos"
+        proxy=""
+        port=""
+        user=""
+        password=""
+        server=""
+        mmsc=""
+        mmsproxy=""
+        mmsport=""
+        mcc="602"
+      mnc="03"
+      authtype=""
+      type=""
+      protocol="IPV4"
+      roaming_protocol="IPV4"
+    />
+
+    <apn carrier="Pax A920"
+        apn="damenpc-st-te.eg"
+        proxy=""
+        port="80"
+        user=""
+        password=""
+        server=""
+        mmsc=""
+        mmsproxy=""
+        mmsport=""
+              mcc="602"
+       mnc="01"
+       authtype=""
+       type="default"
+       protocol="IPV4"
+       roaming_protocol="IPV4"
+    />
+</apns>
+
+    <!--    <apn carrier="Etisalat"-->
+<!--        apn="damenpos"-->
+<!--        proxy=""-->
+<!--        port=""-->
+<!--        user=""-->
+<!--        password=""-->
+<!--        server=""-->
+<!--        mmsc="http://10.71.131.7:38090"-->
+<!--        mmsproxy="10.71.130.29"-->
+<!--        mmsport=""-->
+<!--        mcc="602"-->
+<!--        mnc="03"-->
+<!--        authtype=""-->
+<!--        type="mms"-->
+<!--        protocol="IPV4"-->
+<!--        roaming_protocol="IPV4"-->
+<!--    />-->
+
+<!--    <apn carrier="Orange Egypt"-->
+<!--        apn="cws0402"-->
+<!--        proxy=""-->
+<!--        port="80"-->
+<!--        user=""-->
+<!--        password=""-->
+<!--        server=""-->
+<!--        mmsc=""-->
+<!--        mmsproxy=""-->
+<!--        mmsport=""-->
+<!--        mcc="602"-->
+<!--        mnc="01"-->
+<!--        authtype=""-->
+<!--        type="default"-->
+<!--        protocol="IPV4"-->
+<!--        roaming_protocol="IPV4"-->
+<!--    />-->
+<!--</apns>-->

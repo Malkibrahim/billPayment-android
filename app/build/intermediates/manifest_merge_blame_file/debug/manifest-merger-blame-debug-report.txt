@@ -1,0 +1,116 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.damenpayment"
+4    android:versionCode="2"
+5    android:versionName="1.0.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+9        android:targetSdkVersion="30" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:3:1-76
+12-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:3:18-74
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:4:5-67
+13-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:4:22-64
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:5:5-75
+14-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:5:22-72
+15    <uses-permission android:name="android.permission.SEND_SMS" />
+15-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:6:5-66
+15-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:6:22-64
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[:react-native-community_netinfo] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+16-->[:react-native-community_netinfo] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-76
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Required to access Google Play Licensing -->
+17-->[:react-native-community_netinfo] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-76
+17-->[:react-native-community_netinfo] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\@react-native-community\netinfo\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-73
+18    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+18-->[:rn-fetch-blob] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-73
+18-->[:rn-fetch-blob] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-70
+19    <!--
+20         Required to keep CPU alive while downloading files
+21        (NOT to keep screen awake)
+22    -->
+23    <uses-permission android:name="android.permission.WAKE_LOCK" />
+23-->[:rn-fetch-blob] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-68
+23-->[:rn-fetch-blob] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:22-65
+24    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+25
+26    <application
+26-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:7:5-27:19
+27        android:name="com.damenpayment.MainApplication"
+27-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:9:7-38
+28        android:allowBackup="false"
+28-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:13:7-34
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.7.0-alpha01] C:\Users\malak.ibrahim\.gradle\caches\transforms-2\files-2.1\8248f78ba71a1f89ccb847e7fd1109e1\core-1.7.0-alpha01\AndroidManifest.xml:24:18-86
+30        android:debuggable="true"
+31        android:icon="@mipmap/ic_launcher"
+31-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:11:7-41
+32        android:label="@string/app_name"
+32-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:10:7-39
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:12:7-52
+34        android:theme="@style/AppTheme"
+34-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:14:7-38
+35        android:usesCleartextTraffic="true" >
+35-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:8:7-42
+36        <activity
+36-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:15:7-25:18
+37            android:name="com.damenpayment.MainActivity"
+37-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:16:9-37
+38            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+38-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:19:9-79
+39            android:label="@string/app_name"
+39-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:18:9-41
+40            android:screenOrientation="portrait"
+40-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:17:10-46
+41            android:windowSoftInputMode="adjustResize" >
+41-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:20:9-51
+42            <intent-filter>
+42-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:21:9-24:25
+43                <action android:name="android.intent.action.MAIN" />
+43-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:22:13-65
+43-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:22:21-62
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:23:13-73
+45-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:23:23-70
+46            </intent-filter>
+47        </activity>
+48        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+48-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:26:7-84
+48-->E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\android\app\src\main\AndroidManifest.xml:26:17-81
+49
+50        <provider
+50-->[:rn-fetch-blob] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:9-44:20
+51            android:name="com.RNFetchBlob.Utils.FileProvider"
+51-->[:rn-fetch-blob] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-62
+52            android:authorities="com.damenpayment.provider"
+52-->[:rn-fetch-blob] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-60
+53            android:exported="false"
+53-->[:rn-fetch-blob] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-37
+54            android:grantUriPermissions="true" >
+54-->[:rn-fetch-blob] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-47
+55            <meta-data
+55-->[:rn-fetch-blob] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-43:58
+56                android:name="android.support.FILE_PROVIDER_PATHS"
+56-->[:rn-fetch-blob] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:17-67
+57                android:resource="@xml/provider_paths" />
+57-->[:rn-fetch-blob] E:\Smart Projects\Mobile\damen--payment--apn--test\damen--payment\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:17-55
+58        </provider>
+59
+60        <meta-data
+60-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\malak.ibrahim\.gradle\caches\transforms-2\files-2.1\5f8281be8013d6cc522aa657c8b35f99\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
+61            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+61-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\malak.ibrahim\.gradle\caches\transforms-2\files-2.1\5f8281be8013d6cc522aa657c8b35f99\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:12:13-84
+62            android:value="GlideModule" />
+62-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\malak.ibrahim\.gradle\caches\transforms-2\files-2.1\5f8281be8013d6cc522aa657c8b35f99\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:13:13-40
+63    </application>
+64
+65</manifest>

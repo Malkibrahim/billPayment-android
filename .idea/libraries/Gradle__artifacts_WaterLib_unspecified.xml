@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:WaterLib:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WaterLib/build/.transforms/2b57735c07329f38f97d3ffaf4374944/jetified-WaterLib/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/WaterLib/build/.transforms/2b57735c07329f38f97d3ffaf4374944/jetified-WaterLib/res" />
+      <root url="file://$PROJECT_DIR$/WaterLib/build/.transforms/2b57735c07329f38f97d3ffaf4374944/jetified-WaterLib/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
